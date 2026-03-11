@@ -74,7 +74,7 @@ If any field is not needed, return null or [] instead.
     const model = genai.getGenerativeModel({ model: "gemini-2.0-flash" });
     const result = await model.generateContent(contextPrompt);
     const aiText = result.response.text();
-    console.log("AI Response:", aiText);
+    
 
     // ✅ Parse Gemini's markdown JSON safely
     let parsedOutput;
