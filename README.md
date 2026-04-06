@@ -170,7 +170,7 @@ Questions are generated based on:
 ## 🌐 Technology Stack  
 
 ### Frontend
-- React.js  
+- React Native expo  
 - Tailwind CSS  
 - Chart Libraries  
 
